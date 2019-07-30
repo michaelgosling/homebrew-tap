@@ -3,7 +3,7 @@ class GbdkN < Formula
     homepage "https://github.com/michaelgosling/gbdk-n"
     url "https://github.com/michaelgosling/gbdk-n/archive/c8cb024e92019e6d3523c4b804233e10353435da.tar.gz"
     version "2.96-gander"
-    sha256 "7eb1f760dbc4780cc9cddf21eb0e838c84b7a3a384bb4adba6ab405d2b506c52"
+    sha256 "9a93916dd23162315f1671bb559eeef475b4b9963353b3bf671d9de862ef8e35"
   
     depends_on "sdcc"
   
